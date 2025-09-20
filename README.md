@@ -8,7 +8,7 @@
   - Programming with **Python**  
 - 👀 **Interests:** Software Testing, Web Development, Coding, Gaming, and Movies  
 - 💞️ **Open to Collaborate On:** QA Automation, Web Development, and Open Source Projects  
-- 📫 **Reach Me:** [www.roshankhichi.com](http://www.roshankhichi.com)  
+- 📫 **Reach Me:** [Email](mailto:roshan.singh.khichi@gmail.com)  
 - ⚡ **Fun fact:** I enjoy breaking things (apps 😉) to make them better!  
 
 ## 🌐 Socials:
